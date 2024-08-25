@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file for your Image Generator App:
+Image Generator App:
 
 ```markdown
 # Image Generator App
